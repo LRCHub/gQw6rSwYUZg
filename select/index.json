@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Time judged all ～8 years later～『仮面ライダーオーズ／OOO』挿入歌",
+  "base_artist": "火野映司×アンク(C.V.渡部 秀･三浦涼介)",
+  "createdAt": "2026-01-09T17:54:15.680434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time judged all - タジャドル コンボのテーマ",
+      "artist": "火野映司(C.V.渡部 秀)",
+      "has_synced": true,
+      "path": "select/01_Time_judged_all_-_タジャドル_コンボのテーマ_火野映司(C.V.渡部_秀).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time judged all (SPOT-size edit.) (仮面ライダーオーズ(OOO))",
+      "artist": "火野映司(渡部秀)&アンク(三浦涼介)",
+      "has_synced": false,
+      "path": "select/02_Time_judged_all_(SPOT-size_edit.)_(仮面ライダーオーズ(OOO))_火野映司(渡部秀)&アンク(三浦涼介).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time judged all",
+      "artist": "火野映司×アンク(C.V.渡部秀・三浦涼介)",
+      "has_synced": false,
+      "path": "select/pl_01_Time_judged_all_火野映司×アンク(C.V.渡部秀・三浦涼介).txt"
+    }
+  ]
+}
